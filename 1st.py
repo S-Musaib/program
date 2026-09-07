@@ -1,0 +1,7 @@
+a=float(input('enter 1syt number' ))
+b=float(input('enter 2nd number' ))
+print('sum;',a+b)
+print('difference;',a-b)
+print('product;',a*b)
+print('quotient;',a/b)
+print('remainder;',a%b)
